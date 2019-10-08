@@ -1,2 +1,2 @@
 # NMBS_cracker
-script to bruteforce nmbs accounts
+script to brute force nmbs accounts
